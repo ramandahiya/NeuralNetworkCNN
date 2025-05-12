@@ -2,7 +2,9 @@
 
 ## Convolutional Neural Networks
 ```
-Sample is based on CNN, Convolutional Neural Networks. <br><br/> It applies convolutional operations to input images, extracting spatial features that improve the model’s ability to recognize patterns.
+Sample is based on CNN, Convolutional Neural Networks.
+It applies convolutional operations to input images, extracting spatial features,
+that improve the model’s ability to recognize patterns.
 ```
 
 ## Install dependencies

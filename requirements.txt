@@ -1,0 +1,7 @@
+numpy
+pandas
+DateTime
+python-dotenv
+tensorflow
+keras
+matplotlib
